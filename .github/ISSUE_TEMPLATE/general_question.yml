@@ -1,0 +1,12 @@
+name: ❓ General Question
+description: Ask anything about the project or process.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      placeholder: Ask away!
+    validations:
+      required: true
