@@ -6,13 +6,13 @@ Every book gets its own subfolder with a consistent structure.
 ## Folder Structure for a New Book
 
 Each book folder should follow this structure:
-
+```
 books/<book-name>/
     01-chapter-01.md
     02-chapter-02.md
     progress.md
     summary.md
-
+```
 ## Naming Conventions
 
 - Book folder name: lowercase, hyphen-separated  
