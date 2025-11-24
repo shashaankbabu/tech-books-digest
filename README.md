@@ -1,6 +1,8 @@
 # Tech Books Digest
 
-Tech Books Digest is an open, collaborative repository where developers read, summarise, and break down technical books. The goal is to create a long-term, community-driven knowledge base covering system design, distributed systems, cloud, architecture, and software engineering concepts.
+Tech Books Digest is an open, collaborative repository where developers read, summarise, and break down technical books. 
+
+The goal is to create a long-term, community-driven knowledge base covering system design, distributed systems, cloud, architecture, and software engineering concepts.
 
 This repository provides a consistent structure for adding new books, chapters, diagrams, and shared concepts — with templates to keep everything organized.
 
