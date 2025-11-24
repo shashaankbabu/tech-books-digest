@@ -1,0 +1,12 @@
+name: 🛠 Suggest Improvement
+description: Improvements, corrections, or additions to existing notes.
+title: "[Improvement] "
+labels: ["improvement"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: What should be improved?
+      placeholder: Be specific.
+    validations:
+      required: true
