@@ -10,7 +10,7 @@ This repository provides a consistent structure for adding new books, chapters, 
 # Repository Structure (Detailed)
 
 Below is the complete structure of this repository and the purpose of each directory.
-
+```
 tech-books-digest/
 ├── books/                      # One folder per book (chapters, summary, progress)
 │   ├── README.md               # How to add a new book
@@ -49,6 +49,7 @@ tech-books-digest/
 └── README.md                   # This file
 
 ---
+```
 
 # What This Repository Contains
 
