@@ -40,10 +40,8 @@ tech-books-digest/
 │   │   ├── book_suggestion.yml
 │   │   ├── improvement.yml
 │   │   └── general_question.yml
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── workflows/              # Optional automation (markdown checks, link checks)
+│   └── PULL_REQUEST_TEMPLATE.md
 │
-├── progress.md                 # Global reading progress (across all books)
 ├── CONTRIBUTING.md             # How contributors should collaborate
 ├── CODE_OF_CONDUCT.md          # Community standards
 ├── LICENSE                     # CC BY-NC-SA 4.0 License
